@@ -1,0 +1,53 @@
+
+[apk_settings]
+alias=
+app_icon_path=C:\\Users\\Andy\\Desktop\\AKG Files\\Notebook Jam V2\\Icons and Banners\\icon512.png
+notif_icon_path=
+app_name=Notebook Jam
+app_type=0
+game_circle_api_key=
+keystore_path=C:\\Users\\Andy\\Desktop\\AKG Files\\release2.keystore
+orientation=1
+output_path=C:\\Users\\Andy\\Desktop\\AKG Files\\Notebook Jam V2\\NotebookJamV2.apk
+ouya_icon_path=
+package_name=com.RondovoGames.notebook_jam
+permission_flags=0
+play_app_id=
+sdk_version=0
+version_name=1.1
+version_number=2
+firebase_config_path=
+arcore=0
+
+[ipa_settings]
+app_icon_path=
+app_name=
+build_number=
+device_type=0
+facebook_id=
+orientation=0
+output_path=
+prov_profile_path=
+splash_1136_path=
+splash_2048_path=
+splash_960_path=
+uses_ads=0
+version_number=
+firebase_config_path=
+splash_2436_path=
+
+[html5_settings]
+commands_used=0
+dynamic_memory=0
+output_path=
+
+[projectfiles]
+FILE_0=main.agc;-1
+FILE_1=gameplay.agc;-1
+
+[files]
+FILE_NAME_0=0;main.agc;3396;0
+FILE_NAME_1=0;gameplay.agc;1301;1
+
+[project]
+description=
